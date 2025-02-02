@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rassaerr
 - 👀 I’m interested in all fancy stuff
-- 🌱 I’m currently improving my C++ and Python skills
 - 💞️ I’m looking to collaborate on any interesting new projects
 - 📫 How to reach me on email: rudi.rassaerts@gmail.com
 
